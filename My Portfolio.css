@@ -1,0 +1,68 @@
+.About {
+display: block;
+border-style: solid;
+border: solid 4px;
+padding-right: auto;
+padding-left: 20px;
+border-right: auto;
+margin-right: 100px;
+margin-top: 50px;
+}
+
+.flex-Buttons {
+    /* using flexbox */
+    display: flex;
+    justify-content: space-between;
+    size: 100px;
+    font-size: 20px;
+    margin-right: 70px;
+    /* border: solid black 5px; */
+    margin: 100px;
+    margin-left: 50px;
+    }
+
+.button1 {
+    size: 50px;
+    background-color: gold;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+    margin-left: 0px;
+}
+
+.button2 {
+    size: 50px;
+    background-color: gold;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+
+}
+ 
+.button3 {
+size: 50px;
+    background-color: gold;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.button4 {
+size: 50px;
+    background-color: gold;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.button5 {
+size: 50px;
+    background-color: gold;
+    color: black;
+    font-size: 20px;
+    padding: 10px;
+} 
+.content {
+    max-width: auto;
+    margin-left: 5px;
+}
